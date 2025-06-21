@@ -5,7 +5,7 @@
 - 🌱 Currently exploring scalable web applications and backend architecture
 
 
----
+
 
 ##  About Me
 
@@ -14,7 +14,7 @@
 - 📊 As a trainee at **CRIS**, helped generate monthly freight reports using **PHP + SQL**
 - 👩‍💻 Passionate about building user-focused, responsive, and real-world web applications
 
----
+
 
 ## 🛠️ Tech Stack
 
