@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anju
 
 - 🎓 BTech Computer Science and Engineering Grad
-- 💻 Web Developer | Backend Enthusiast | PHP & MERN Stack | Problem Solver  
+- 💻 Web Developer | Backend Enthusiast | PHP, MERN Stack, AIML | Problem Solver  
 - 🌱 Currently exploring scalable web applications and backend architecture
 
 
