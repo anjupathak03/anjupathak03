@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anju  
 
-🎓 **B.Tech in Computer Science and Engineering** 
+🎓 **B.Tech in Computer Science and Engineering**                                                                                                                                                                    
 💻 Software Development Engineer | Backend Enthusiast | MERN Stack | PHP | AIML Enthusiast | Problem Solver  
 🌱 Passionate about building scalable backend systems and impactful web applications  
 
