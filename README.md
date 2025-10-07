@@ -2,7 +2,8 @@
 
 🎓 **B.Tech in Computer Science and Engineering**                                                                                                                                                                    
 💻 Software Development Engineer | Backend Enthusiast | MERN Stack | PHP 
-🌱 Passionate about building scalable backend systems and impactful web applications  
+
+
 
 
 
