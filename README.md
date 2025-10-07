@@ -4,20 +4,7 @@
 💻 Software Development Engineer | Backend Enthusiast | MERN Stack | PHP | AIML | Problem Solver  
 🌱 Passionate about building scalable backend systems and impactful web applications  
 
----
 
-## 🚀 About Me  
-
-- 🔭 **Software Development Engineer** at **Reeltor** — led backend development of *Gulbhahar*, an in-house e-commerce platform using **Node.js**, **Express.js**, and **MongoDB**. Designed and implemented 40+ RESTful APIs, integrated **JWT authentication**, **payment gateways**, **OAuth 2.0 Google Sign-In**, **ZeptoMail OTP verification**, and **AWS S3 Express**.
-- 📊 Previously developed solutions at **Bambooze** using **PHP**, **MySQL**, **cPanel**, and **phpMyAdmin**.
-- 💡 **Software Developer Trainee** at **Centre for Railway Information System** — contributed to *FOIS Web Reports* by creating backend logic in **Node.js** for data classification and HTML report generation.  
-- 💼 **MERN Developer Trainee** at **Brain Mentors Pvt Ltd** — built full-stack apps with **React**, **Bootstrap**, **Node.js**, and **Express.js**, and tested APIs using **Thunder Client**.  
-- 📄 Presented the research paper "**User Classification on Twitter using Hybrid Modelling with BERT and LDA**" at **ICETCI-2025**, proposing a hybrid approach using **deep learning (BERT)** and **topic modeling (LDA)** for **Twitter user classification**, contributing to Applied **NLP** in **AIML** for social media analytics and user profiling.
-- 🏆 1st Place in Hackathon by EduMinerva | Research Excellence award at *Pinnacle*.  
-- 👩‍💻 Passionate about building user-focused, responsive, and real-world web applications.
-
-
----
 
 ## 🛠 Tech Stack  
 
